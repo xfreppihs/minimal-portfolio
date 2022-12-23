@@ -6,7 +6,8 @@
 
 <center><img src="images/city.gif" alt="" width="500"/></center>
 
-([presentation](https://youtu.be/mn9afg52erY)){:target="_blank"}([report](pdf/team032report.pdf)){:target="_blank"}
+<a href="https://youtu.be/mn9afg52erY" target="_blank">(presentation)</a><a href="pdf/team032report.pdf" target="_blank">(report)</a>
+([presentation](https://youtu.be/mn9afg52erY))([report](pdf/team032report.pdf))
 - Led a team of 6 to build a content-based interactive recommender system using weighted cosine similarity
 - Scraped, merged, and cleaned ~30,000 US cities data with ~80 attributes from three different data sources
 - Imputed missing values with k-nearest neighbors (KNN) and performed k-means clustering to evaluate data quality
