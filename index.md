@@ -7,7 +7,6 @@
 <center><img src="images/city.gif" alt="" width="500"/></center>
 
 <a href="https://youtu.be/mn9afg52erY" target="_blank">(presentation)</a><a href="pdf/team032report.pdf" target="_blank">(report)</a>
-([presentation](https://youtu.be/mn9afg52erY))([report](pdf/team032report.pdf))
 - Led a team of 6 to build a content-based interactive recommender system using weighted cosine similarity
 - Scraped, merged, and cleaned ~30,000 US cities data with ~80 attributes from three different data sources
 - Imputed missing values with k-nearest neighbors (KNN) and performed k-means clustering to evaluate data quality
@@ -18,8 +17,7 @@
 
 <center><img src="images/housing_wordcloud.png" alt="" width="500"/></center>
 
-([report](pdf/house_report.pdf))
-
+<a href="pdf/house_report.pdf" target="_blank">(report)</a>
 - Scraped and cleaned ~1,000 local house price data from Zillow.com
 - Built regularized linear regression (Lasso and Ridge) and random forest regression models to predict sales prices
 - Performed feature engineering using natural language processing (NLP) and improved prediction mean squared error by 9%
@@ -30,7 +28,7 @@
 
 <center><img src="images/drc_4PL.png" alt="" width="500"></center>
 
-- Used four parameter logistic to study a dose-response curve and calculate the IC50/ED50/EC50 dose ([R](projects/drc_4PL.html))
+- Used four parameter logistic to study a dose-response curve and calculate the IC50/ED50/EC50 dose ([R](projects/drc_4PL.html))<a href="projects/drc_4PL.html" target="_blank">(R)</a>
 - Used linear-quadratic and multi-target to model cell survival curve after radiation ([R](projects/nls_lq_mt.html) &#124; [python](projects/curve_fit_lq_mt.html))
 - Used exponential decay increasing to the max to fit a (pseudo) first-order reaction ([R](projects/nls_exponential_decay_increasing_to_max.html) &#124; [python](projects/curve_fit_exponential_decay_increasing_to_max.html))
 
