@@ -29,9 +29,9 @@
 
 <center><img src="images/drc_4PL.png" alt="" width="500"></center>
 
-- Used four parameter logistic to study a dose-response curve and calculate the IC50/ED50/EC50 dose ([R]())
-- Used linear-quadratic and multi-target to model cell survival curve after radiation (R | python)
-- Used exponential decay increasing to the max to fit a (pseudo) first-order reaction (R | python)
+- Used four parameter logistic to study a dose-response curve and calculate the IC50/ED50/EC50 dose ([R](projects/drc_4PL.html))
+- Used linear-quadratic and multi-target to model cell survival curve after radiation ([R](projects/nls_lq_mt.html) &#124; [python](projects/curve_fit_lq_mt.html))
+- Used exponential decay increasing to the max to fit a (pseudo) first-order reaction ([R](projects/nls_exponential_decay_increasing_to_max.html) &#124; [python](projects/curve_fit_exponential_decay_increasing_to_max.html))
 
 ---
 
