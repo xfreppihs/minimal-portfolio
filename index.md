@@ -63,6 +63,6 @@
 - Created interactive visualizations for top players’ ranking and performance comparisons
 
 ### Notes
-- [regression tree &#124; random forest regression &#124; logistic regression notes]()
-- [PCA &#124; PCR notes]()
-- [stepwise &#124; lasso &#124; elastic net &#124; ridge regression notes]()
+- [regression tree &#124; random forest regression &#124; logistic regression notes](projects/tree_notes.html)
+- [PCA &#124; PCR notes](projects/pca_notes.html)
+- [stepwise &#124; lasso &#124; elastic net &#124; ridge regression notes](projects/stepwise_notes.html)
