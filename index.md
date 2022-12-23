@@ -6,7 +6,7 @@
 
 <center><img src="images/city.gif" alt="" width="500"/></center>
 
-([presentation](https://youtu.be/mn9afg52erY))([report](_pages/team032report.pdf))
+([presentation](https://youtu.be/mn9afg52erY))([report](pdf/team032report.pdf))
 - Led a team of 6 to build a content-based interactive recommender system using weighted cosine similarity
 - Scraped, merged, and cleaned ~30,000 US cities data with ~80 attributes from three different data sources
 - Imputed missing values with k-nearest neighbors (KNN) and performed k-means clustering to evaluate data quality
@@ -17,7 +17,7 @@
 
 <center><img src="images/housing_wordcloud.png" alt="" width="500"/></center>
 
-([report](_pages/house_report.pdf))
+([report](pdf/house_report.pdf))
 
 - Scraped and cleaned ~1,000 local house price data from Zillow.com
 - Built regularized linear regression (Lasso and Ridge) and random forest regression models to predict sales prices
