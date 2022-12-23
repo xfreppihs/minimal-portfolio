@@ -62,3 +62,7 @@
 - Examined the statistics on upset rate and the impact of winning the first set on the whole match
 - Created interactive visualizations for top players’ ranking and performance comparisons
 
+### Notes
+- [regression tree &#124; random forest regression &#124; logistic regression notes]()
+- [PCA &#124; PCR notes]()
+- [stepwise &#124; lasso &#124; elastic net &#124; ridge regression notes]()
