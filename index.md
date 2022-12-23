@@ -1,3 +1,7 @@
+# Portfolio
+
+---
+
 ### City Recommender
 
 <center><img src="images/city.gif" alt="" width="500"/></center>
@@ -13,6 +17,8 @@
 
 <center><img src="images/housing_wordcloud.png" alt="" width="500"/></center>
 
+([report](_pages/house_report.pdf))
+
 - Scraped and cleaned ~1,000 local house price data from Zillow.com
 - Built regularized linear regression (Lasso and Ridge) and random forest regression models to predict sales prices
 - Performed feature engineering using natural language processing (NLP) and improved prediction mean squared error by 9%
@@ -23,7 +29,7 @@
 
 <center><img src="images/drc_4PL.png" alt="" width="500"></center>
 
-- Used four parameter logistic to study a dose-response curve and calculate the IC50/ED50/EC50 dose (R)
+- Used four parameter logistic to study a dose-response curve and calculate the IC50/ED50/EC50 dose ([R]())
 - Used linear-quadratic and multi-target to model cell survival curve after radiation (R | python)
 - Used exponential decay increasing to the max to fit a (pseudo) first-order reaction (R | python)
 
