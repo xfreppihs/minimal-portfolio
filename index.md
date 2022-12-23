@@ -39,6 +39,7 @@
 
 <center><img src="images/correlation_analysis.png" alt="" width="500"/></center>
 
+([slides](projects/correlation_analysis.html))
 - Analyzed correlations between redox-related metabolites in head and neck cancer patients and their responses to a cancer treatment
 - Built a multiple linear regression model using the forward selection based on adjusted R<sup>2</sup> method
 
@@ -48,7 +49,7 @@
 
 <center><img src="images/mouse_tumor.png" alt="" width="500"/></center>
 
-- Recorded and graphed mouse xenograft tumor growth trend (R | python)
+- Recorded and graphed mouse xenograft tumor growth trend ([R](projects/mouse_tumor_r.html) &#124; [python](projects/mouse_tumor_py.html))
 
 ---
 
@@ -56,6 +57,7 @@
 
 <center><img src="images/ATP_tennis.png" alt="" width="500"/></center>
 
+([kaggle notebook](https://www.kaggle.com/iamanalien/atp-tennis-2000-2020-initial-analysis))
 - Analyzed over 63,000 men’s professional tennis matches from 2000 to 2020
 - Examined the statistics on upset rate and the impact of winning the first set on the whole match
 - Created interactive visualizations for top players’ ranking and performance comparisons
