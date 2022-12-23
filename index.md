@@ -1,6 +1,6 @@
 ### City Recommender
 
-<center><img src="images/city.png" alt="" height="300"/></center>
+<center><img src="images/city.gif" alt="" width="500"/></center>
 
 ([presentation](https://youtu.be/mn9afg52erY))([report](_pages/team032report.pdf))
 - Led a team of 6 to build a content-based interactive recommender system using weighted cosine similarity
@@ -11,7 +11,7 @@
 
 ### House price prediction
 
-<center><img src="images/housing_wordcloud.png"/></center>
+<center><img src="images/housing_wordcloud.png" alt="" width="500"/></center>
 
 - Scraped and cleaned ~1,000 local house price data from Zillow.com
 - Built regularized linear regression (Lasso and Ridge) and random forest regression models to predict sales prices
@@ -21,7 +21,7 @@
 
 ### Non-linear regression curve fitting
 
-<center><img src="images/drc_4PL.png" alt="" height="300"></center>
+<center><img src="images/drc_4PL.png" alt="" width="500"></center>
 
 - Used four parameter logistic to study a dose-response curve and calculate the IC50/ED50/EC50 dose (R)
 - Used linear-quadratic and multi-target to model cell survival curve after radiation (R | python)
@@ -31,7 +31,7 @@
 
 ### Correlation analysis
 
-<center><img src="images/correlation_analysis.png" alt="" height="300"/></center>
+<center><img src="images/correlation_analysis.png" alt="" width="500"/></center>
 
 - Analyzed correlations between redox-related metabolites in head and neck cancer patients and their responses to a cancer treatment
 - Built a multiple linear regression model using the forward selection based on adjusted R<sup>2</sup> method
@@ -40,7 +40,7 @@
 
 ### Mouse tumor growth trend analysis
 
-<center><img src="images/mouse_tumor.png" alt="" height="300"/></center>
+<center><img src="images/mouse_tumor.png" alt="" width="500"/></center>
 
 - Recorded and graphed mouse xenograft tumor growth trend (R | python)
 
@@ -48,7 +48,7 @@
 
 ### ATP Tennis Analytics
 
-<center><img src="images/ATP_tennis.png" alt="" height="300"/></center>
+<center><img src="images/ATP_tennis.png" alt="" width="500"/></center>
 
 - Analyzed over 63,000 men’s professional tennis matches from 2000 to 2020
 - Examined the statistics on upset rate and the impact of winning the first set on the whole match
