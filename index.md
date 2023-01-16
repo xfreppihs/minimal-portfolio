@@ -24,6 +24,16 @@
 
 ---
 
+### US presidential election prediction
+
+<center><img src="images/city.gif" alt="" width="500"/></center>
+
+(<a href="https://youtu.be/6DYfaQmHcH8" target="_blank">presentation</a>)(<a href="pdf/team018finalreport.pdf" target="_blank">report</a>)
+- Led a team of 5 to build regression (linear, random forest) and classification (decision trees, logistic) models to predict 2020 US presidential election outcomes using Census and past election data; achieving 7.1 RMSE for regression and 91.3% accuracy and 94.3% AUC for classification
+- Examined trends in demographic factors from 2012 to 2020 and their correlations with election outcomes
+
+---
+
 ### Non-linear regression curve fitting
 
 <center><img src="images/drc_4PL.png" alt="" width="500"></center>
