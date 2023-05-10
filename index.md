@@ -5,7 +5,7 @@
 
 <center><img src="images/SCL.png" alt="" width="500"/></center>
 
-In my Deep Learning course group project I replicated this Supervised Contrastive Learning <a href="https://arxiv.org/abs/2004.11362" target="_blank">paper</a>, compared different contrastive loss functions, and analyzed the impact of architecture modifications on network performance, with the hope that supervised contrastive learning can be applied to tabular data to learn informative embeddings. Here is my <a href="pdf/CS_7643_final_report.pdf" target="_blank">project report</a> and a <a href="projects/contrastive_loss.html" target="_blank">notebook</a> dissecting the math behind these loss functions.
+In my Deep Learning course group project I replicated this Supervised Contrastive Learning <a href="https://arxiv.org/abs/2004.11362" target="_blank">paper</a>, compared different contrastive loss functions, and analyzed the impact of architecture modifications on network performance, with the hope that supervised contrastive learning can be applied to tabular data to learn informative embeddings. Here are my <a href="pdf/CS_7643_final_report.pdf" target="_blank">project report</a> and a <a href="projects/contrastive_loss.html" target="_blank">notebook</a> dissecting the math behind these loss functions.
 
 ---
 
