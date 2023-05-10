@@ -1,6 +1,13 @@
 # Portfolio
 
 ---
+### Supervised Contrastive Learning
+
+<center><img src="images/SCL.png" alt="" width="500"/></center>
+
+In my Deep Learning course group project I compared different contrastive loss functions and analyzed the impact of architecture modifications on network performance, with the hope that supervised contrastive learning can be applied to tabular data where data augmentation can be challenging. Here is my <a href="pdf/CS_7643_final_report.pdf" target="_blank">project report</a> and a <a href="projects/contrastive_loss.html" target="_blank">notebook</a> dissecting the math behind these loss functions.
+
+---
 
 ### City Recommender
 
