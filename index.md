@@ -1,6 +1,17 @@
 # Portfolio
 
 ---
+### Loan Default Detector
+
+<center><img src="images/loan.gif" alt="" width="500"/></center>
+
+(<a href="https://github.com/xfreppihs/loan-default-detector-xgboost-lightgbm-histgradientboosting" target="_blank">github</a>)(<a href="https://github.com/xfreppihs/streamlit-deploytment-on-GCP" target="_blank">deployment</a>)
+- Built a Loan Default Detector to predict credit card applicants at risk of default. 
+- Cleaned and analyzed 300,000 application records. Implemented multiple classification models (XGBoost, LightGBM, HistGradientBoosting), addressing class imbalance by integrating SMOTE and undersampling strategies.
+- Orchestrated Hyperopt and MLflow for hyperparameter tuning, achieving a 0.24 PRC-AUC score from the final model, which improved 300% over the baseline, saving 41% charge-off loss (0.41 recall).
+- Deployed the model on GCP with Streamlit for internal use, delivering insights for each application prediction.
+
+---
 ### Supervised Contrastive Learning
 
 <center><img src="images/SCL.png" alt="" width="500"/></center>
