@@ -93,3 +93,5 @@ In my Deep Learning course group project (<a href="https://github.com/Dongzhikan
 - <a href="projects/tree_notes.html" target="_blank">regression tree &#124; random forest regression &#124; logistic regression notes</a>
 - <a href="projects/pca_notes.html" target="_blank">PCA &#124; PCR notes</a>
 - <a href="projects/stepwise_notes.html" target="_blank">stepwise &#124; lasso &#124; elastic net &#124; ridge regression notes</a>
+- <a href="https://github.com/xfreppihs/machine-learning-data-science-notes/blob/main/python%20notes.ipynb" target="_blank">Python notes</a>
+- <a href="https://github.com/xfreppihs/machine-learning-data-science-notes/blob/main/pandas_notes.ipynb" target="_blank">Pandas notes</a>
